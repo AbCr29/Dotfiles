@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="color-palette" type="string" value="rgb(24,24,29);rgb(237,51,59);rgb(87,227,137);rgb(248,228,92);rgb(98,160,234);rgb(192,97,203);rgb(122,230,245);rgb(170,170,170);rgb(61,56,70);rgb(246,97,81);rgb(143,240,164);rgb(249,240,107);rgb(153,193,241);rgb(220,138,221);rgb(155,243,255);rgb(255,255,255)"/>
+  <property name="color-background" type="string" value="#17b117e81d03"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_IBEAM"/>
+  <property name="misc-cursor-blinks" type="bool" value="true"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="font-name" type="string" value="Roboto Mono Light 10"/>
+  <property name="font-allow-bold" type="bool" value="true"/>
+  <property name="font-use-system" type="bool" value="false"/>
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-darkness" type="double" value="0.90000000000000002"/>
+  <property name="color-cursor-use-default" type="bool" value="false"/>
+  <property name="color-cursor-foreground" type="string" value="#a0d9649bdf91"/>
+  <property name="color-cursor" type="string" value="#a0d9649bdf91"/>
+  <property name="tab-activity-color" type="string" value="#ffffbebe6f6f"/>
+  <property name="color-selection-use-default" type="bool" value="false"/>
+  <property name="color-selection-background" type="string" value="#35358484e4e4"/>
+  <property name="color-selection" type="string" value="#ffffffffffff"/>
+  <property name="title-mode" type="string" value="TERMINAL_TITLE_REPLACE"/>
+  <property name="command-login-shell" type="bool" value="false"/>
+  <property name="run-custom-command" type="bool" value="false"/>
+  <property name="custom-command" type="string" value=""/>
+  <property name="misc-default-geometry" type="string" value="80x24"/>
+  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="misc-middle-click-opens-uri" type="bool" value="true"/>
+  <property name="misc-mouse-autohide" type="bool" value="false"/>
+  <property name="misc-bell-urgent" type="bool" value="false"/>
+  <property name="misc-bell" type="bool" value="false"/>
+  <property name="misc-right-click-action" type="string" value="TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU"/>
+</channel>
