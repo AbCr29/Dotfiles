@@ -1,0 +1,42 @@
+# THE BEST CONFIG FILE EVER!!!!!
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "Roboto Mono Light"
+style = "Regular"
+
+[window]
+opacity = 0.92
+
+[colors.primary]
+background = '#0E1415'
+foreground = '#CECECE'
+
+[colors.cursor]
+text = '#0E1415'
+cursor = '#CECECE'
+
+[colors.normal]
+black = '#1e1f29'
+red = '#ed333b'
+green = '#57e389'
+yellow = '#f8e45c'
+blue = '#62a0ea'
+magenta = '#c061cb'
+cyan = '#7ae6f5'
+white = '#aaaaaa'
+
+[colors.bright]
+black = '#282a36'
+red = '#f66151'
+green = '#8ff0a4'
+yellow = '#f9f06b'
+blue = '#98c1f1'
+magenta = '#dc88dd'
+cyan = '#9bf3ff'
+white = '#ffffff'
